@@ -1,0 +1,18 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "type": "module",
+  "scripts": {
+    "compile": "tsx compile.ts",
+    "dev": "tsx watch compile.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^25.9.1",
+    "tsx": "^4.22.3"
+  }
+}
