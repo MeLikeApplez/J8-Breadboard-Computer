@@ -1,5 +1,7 @@
 # J8 Breadboard Computer
 
+Work in progress...
+
 [Docs](/CPU%20&%20GPU%20Project%20Docs.md)
 
 [Notes](/CPU%20&%20GPU%20Project%20Notes.md)
